@@ -1,3 +1,5 @@
+##Enlace con Archivo Personal
+[["Mi documento personal"](https://docs.google.com/document/d/1-77ceoNfgrhKr7vJfQF46VMa_waztq0qmBSSUJqtBOo/edit?usp=sharing)]
 
 # Educación del Preceptor en la República Argentina: Misiones
 
